@@ -2,6 +2,17 @@
 
 AI Maven is an AI-powered Android application with over 1,700+ users and 5,500+ conversations, delivering personalized chat experiences in real time. The app integrates with a scalable, serverless backend hosted entirely on AWS.
 
+
+## App Screenshots
+
+<p align="center">
+  <img src="images/image1.png" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/image2.png" width="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/image3.png" width="250" />
+</p>
+
 ---
 
 ## Architecture Overview
@@ -13,7 +24,7 @@ When users interact with the Android app, requests are routed through **AWS API 
 
 ---
 
-## AWS Stack ☁️
+## AWS Stack
 
 - **API Gateway**: Routes requests to individual Lambda endpoints or compute backend
 - **Lambda Functions**: Stateless serverless compute for tasks such as:
