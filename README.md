@@ -12,6 +12,7 @@ AI Maven is an AI-powered Android application with over 2,200+ users and 5,500+ 
 
 `https://web.archive.org/web/20250709013529/https://play.google.com/store/apps/details?id=store.dynamicapps.aimaven&hl=en`
 
+`https://www.dynamicapps.store/`
 
 
 ---
