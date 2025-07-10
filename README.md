@@ -1,6 +1,6 @@
 # AI Maven
 
-AI Maven is an AI-powered Android application with over 1,700+ users and 5,500+ conversations, delivering personalized chat experiences in real time. The app integrates with a scalable, serverless backend hosted entirely on AWS.
+AI Maven is an AI-powered Android application with over 2,200+ users and 5,500+ conversations, delivering personalized chat experiences in real time. The app integrates with a scalable, serverless backend hosted entirely on AWS.
 
 ## App Screenshot
 <p align="center">
